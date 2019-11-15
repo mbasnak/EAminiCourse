@@ -105,7 +105,7 @@ There are talks about everything EA! Some examples: animal welfare, cause priori
 
 **Podcasts**  
 
-- 80000 hours: they invite speakers related to one of EAs cause areas and have in depth conversations about it (1-3 hs long). There are episodes on AI, long-termism, catastrophe prevention, the justice system,...  
+- 80000 hours  
 - Future perfect    
 - Future of life 
 
