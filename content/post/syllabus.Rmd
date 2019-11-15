@@ -1,5 +1,6 @@
 ---
 title: "Syllabus"
+date: "2019-11-14"
 output: html_document
 ---
 
@@ -14,8 +15,11 @@ df <- read.csv("schedule.csv", stringsAsFactors = F)
 # write.csv(df, "schedule.csv", row.names = FALSE)
 
 
-knitr::kable(df)
+# knitr::kable(df)
 
 
 ```
 
+
+
+You can find the schedule for this class [here](https://github.com/mbasnak/EAminiCourse/blob/master/content/post/schedule.pdf)
