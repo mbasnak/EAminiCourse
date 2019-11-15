@@ -1,0 +1,21 @@
+---
+title: "Syllabus"
+output: html_document
+---
+
+```{r, echo= FALSE}
+df <- read.csv("schedule.csv", stringsAsFactors = F)
+
+
+# df$Some.concepts.introduced <- gsub(df$Some.concepts.introduced,
+#                                    replacement = "", pattern = "-")
+#df$Activities <- gsub(df$Activities, replacement="", pattern = "-")
+
+# write.csv(df, "schedule.csv", row.names = FALSE)
+
+
+knitr::kable(df)
+
+
+```
+
