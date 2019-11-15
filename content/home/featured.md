@@ -71,21 +71,23 @@ subtitle = ""
 (https://www.youtube.com/watch?v=zGqt_6_k_KA)  
 - [Panel on EAs in entrepreneurship]  
 (https://www.youtube.com/watch?v=ZSy9hHv2YZ4)  
-- [EA global conference talks]
+- [Youtube channel of Centre for Effective Altruism]
 (https://www.youtube.com/channel/UCEfASxwPxzsHlG5Rf1-4K9w/playlists)
-- Youtube channel of Centre for effective altruism  
-There are talks about everything EA! Some examples: animal welfare, cause prioritization, existential risk and the far future.
+
 
 
 **Courses**  
 *EA*  
 
 - [Peter Singer’s online course on effective altruism] (https://www.coursera.org/learn/altruism)  
-- Steven Pinker’s Rationality course at Harvard (Gen Ed 1066)  
+- Steven Pinker’s Rationality course at Harvard (Gen Ed 1066) 
+
 *Evaluating evidence*  
+
 - [MIT online course on program evaluation](https://ocw.mit.edu/resources/res-14-001-abdul-latif-jameel-poverty-action-lab-executive-training-evaluating-social-programs-2009-spring-2009/index.htm)  
 - [J-PAL courses on evaluating social programs](https://www.povertyactionlab.org/training/online-courses)  
 - [Quantitative modeling](https://www.coursera.org/learn/wharton-quantitative-modeling)
+
 
 
 **Groups** 
@@ -94,13 +96,15 @@ There are talks about everything EA! Some examples: animal welfare, cause priori
 - [EA forum](https://forum.effectivealtruism.org/)  
 - Boston EA facebook group
  
+ 
 
 **Fellowships/internships**  
 
-- Philanthropy Advisory Fellowship  
-- Charity Entrepreneurship Incubation Program  
+- [Philanthropy Advisory Fellowship](http://www.harvardea.org/philanthropy-advisory-fellowship)   
+- [Charity Entrepreneurship Incubation Program](http://www.charityentrepreneurship.com/incubation-program.html)    
 - facebook group: Effective Altruism Volunteering  
-- 80000 hours job posts  
+- [80000 hours job posts](https://80000hours.org/job-board/)    
+
 
 
 **Podcasts**  
@@ -108,6 +112,7 @@ There are talks about everything EA! Some examples: animal welfare, cause priori
 - 80000 hours  
 - Future perfect    
 - Future of life 
+
 
 
 **Books**  
@@ -122,8 +127,11 @@ There are talks about everything EA! Some examples: animal welfare, cause priori
 - Poor economics – Abhijit Banerjee and Esther Duflo  
 - Failing in the field: what we can learn when field research goes wrong – Dean Karlan and Jacob Appel  
 
-- The Black Swan: the impact of the highly improbable – Nassim Nicholas Taleb  
+*Others*  
+
+- The Black Swan: the impact of the highly improbable – Nassim Nicholas Taleb    
 - Strangers drowning – Larissa MacFarquhar  
+
 
 
 **EA oriented organizations** 
